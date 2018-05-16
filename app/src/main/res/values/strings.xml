@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo-retrofit</string>
+
+    <string name="dowload_earthquake_network_error">Hubo un error al descargar los datos del terremoto</string>
+    <string name="usgs_all_hour_earthquake_url">https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson</string>
+    <string name="richter">Richter</string>
+    <string name="longitude">Longitud</string>
+    <string name="latitude">Latitud</string>
+</resources>
